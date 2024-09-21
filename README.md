@@ -4,8 +4,12 @@ I’m passionate about collaborating on projects related to deep learning and fu
 Feel free to reach out to me via email or connect with me on LinkedIn.
 Fun fact: I enjoy exploring the intersection of AI and IoT.
 
-Skills:
-## Skills
+## Experience:
+💻 Software Engineer at Evoke Technologies
+
+
+
+## Technical Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -27,5 +31,6 @@ Skills:
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-EmailId: ladityasrivatsav0405@gmail.com
-Linkedin: https://www.linkedin.com/in/lolla-aditya-srivatsav-2296671b0/
+## ⚙️ Let's Connect
+## Email: ladityasrivatsav0405@gmail.com
+## LinkedIn: https://www.linkedin.com/in/lolla-aditya-srivatsav-2296671b0/
