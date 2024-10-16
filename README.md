@@ -31,6 +31,12 @@ Fun fact: I enjoy exploring the intersection of AI and IoT.
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
+## Stats
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityasrivatsav&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityasrivatsav&layout=compact&theme=radical)](https://github.com/adityasrivatsav/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=adityasrivatsav&theme=radical)](https://git.io/streak-stats)
+
+
 ## ⚙️ Let's Connect
 ## Email: ladityasrivatsav0405@gmail.com
 ## LinkedIn: https://www.linkedin.com/in/lolla-aditya-srivatsav-2296671b0/
