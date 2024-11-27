@@ -2,7 +2,7 @@ Hi! I am Aditya Srivatsav👋, here is my Profile,
 
 -Currently pursuing my master’s in data science at the University at Buffalo. I’m honing my skills in Python, R with a focus on machine learning optimization, multi-task learning, and deep learning concepts such as gradient descent and catastrophic forgetting.
 
--Previously, as a Full-Stack Web Developer at Evoke Technologies, I specialized in providing bespoke services for Law and Financial firms, with expertise in Python, C#, OOPS, Web API, SQL, and IoT Design.
+-Previously, as a Full-Stack Web Developer at Evoke Technologies, I specialized in providing bespoke services for Law firm, with expertise in Python, C#, OOPS, Web API, SQL, and IoT Design.
 
 -I’m passionate about collaborating on projects related to deep learning and full-stack development, and I’m always eager to work on innovative and impactful AI models.
 
